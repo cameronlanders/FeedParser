@@ -48,7 +48,7 @@ It would require significant changes to port it, since ASP.NET Core (and later) 
 
 After adding the FeedParser.cs and Article.cs classes to your application and adding applicable Using statements to classes where you want to use them, you can simply reference their public methods as you would with any other class.
 
-You will notice that both of these classes are contained within a namespace called "Util". You can change this to match your namespace and call the public method directly, or you can leave it alone and preface your method calls with "Util". See the method call example below for clarity.
+You will notice that both of these classes are contained within a namespace called "`util`". You can change this to match your namespace and call the public method directly, or you can leave it alone and preface your method calls with "`util.`" - see the method call example below for clarity.
 
 FeedParser's ParseFeed method parses article content from the standardized XML feed returned from the feed URL, and captures the elements of each article into Article objects, then puts all the Article objects into a List<T> and returns the list to the calling procedure. 
 
