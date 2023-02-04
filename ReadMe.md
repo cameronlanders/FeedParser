@@ -42,7 +42,7 @@ It would require significant changes to port it, since ASP.NET Core (and later) 
  
 ## How To Use Feed Parser
 
-After adding the FeedParser.cs and Article.cs classes to your application and adding applicable Using statements to classes where you want to use them, you can simply reference their public methods as you would with any other class.
+After adding the FeedParser.cs and Article.cs classes to your application where you want to use them, you can simply reference their public methods as you would with any other class.
 
 You will notice that both of these classes are contained within a namespace called "`util`". You can change this to match your namespace and call the public method directly, or you can leave it alone and preface your method calls with "`util.`" - see the method call example below for clarity.
 
