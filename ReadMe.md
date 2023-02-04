@@ -2,25 +2,21 @@
 # Feed Parser   
 ## Extracts Articles From RSS or Atom Feeds 
 --------------------------------------------------------------
-Version 1.0.19 - Released July 16, 2022
+- Version 1.0.19 - Released July 16, 2022
 
-Developed in C# using ASP.NET (.NET Framework 4.7)
+- Developed using C#
 
-Author: **Cameron Landers**
+- Author: **Cameron Landers**
 
-__Cameron's LinkedIN profile:__ 
-
-https://www.linkedin.com/in/cameronlandersexperience/
+    - __LinkedIN profile:__ https://www.linkedin.com/in/cameronlandersexperience/
  
-__Cameron's Web Site:__
+    - __Web Site:__ https://conversiondynamics.com
 
-https://conversiondynamics.com
+    - __Email:__ support@conversiondynamics.com.
 
->You can contact Cameron through LinkedIN or at support@conversiondynamics.com.
+- __LICENSE:__  Free and Open Source. No restrictions. 
 
-__LICENSE:__ Free and Open Source. No restrictions. 
-
-Please credit the author by including the above information in your distributions or documentation.
+- Please credit the author by including the above information in your distributions or documentation.
 
 --------------------------------------------------------------
   
