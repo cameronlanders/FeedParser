@@ -79,7 +79,15 @@ The following example uses FeedParser to generate some simple HTML-formatted out
 
 --------------------------------------------------------------
 
+Notice that I am using my Logger class to generate log entries for each article. See my Logger repository for details on that. If you don't want to use that, just comment it out.
+
 Of course, this is a simple and specific example of the format I used to display articles within an application I was testing at the time. You can modify this to your liking, presenting the articles any way you choose, using your own CSS classes to match the results to your theme, etc. 
+
+Enjoy!
+
+Cheers,
+
+-=Cameron
 
 --------------------------------------------------------------
 
