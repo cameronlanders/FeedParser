@@ -33,7 +33,7 @@ If you are using Microsoft-supported versions of ASP.NET Core (or .NET 6 or late
 
 It would require significant changes to port it, since ASP.NET Core (and later) differs from the classic ASP.NET Framework in a multitude of ways - it's so vastly different in fact, that it would require pretty much a complete rewrite. 
 
-- You may recall that Microsoft recently dropped the "Core" verboage from thier product naming scheme. They now use a simplified naming scheme for the latest frameworks: ".NET 6" and ".NET 7" respectively. I may release an ASP.NET 6 or 7 (or later) version of this at some point. Check my GitHub repos periodically.
+- You may recall that Microsoft recently dropped the "Core" verbiage from thier product naming scheme. They now use a simplified naming scheme for the latest frameworks: ".NET 6" and ".NET 7" respectively. I may release an ASP.NET 6 or 7 (or later) version of this at some point. Check my GitHub repos periodically.
 
 ## Files in the distribution 
 - `Article.cs` - The custom "Article" class used by Feed Parser
