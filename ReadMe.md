@@ -1,5 +1,6 @@
 
 # Feed Parser   
+## Extracts Articles From RSS or Atom Feeds 
 --------------------------------------------------------------
 Version 1.0.19 - Released July 16, 2022
 
